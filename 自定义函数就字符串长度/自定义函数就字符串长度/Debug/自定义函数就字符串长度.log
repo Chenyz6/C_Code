@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\陈与泽\Documents\Visual Studio 代码\自定义函数就字符串长度\自定义函数就字符串长度\test.c(11,20): warning C4133: “-”: 从“int *”到“char *”的类型不兼容
+C:\Users\陈与泽\Documents\Visual Studio 代码\自定义函数就字符串长度\自定义函数就字符串长度\test.c(6,1): warning C4133: “初始化”: 从“char *”到“int *”的类型不兼容
+  自定义函数就字符串长度.vcxproj -> C:\Users\陈与泽\Documents\Visual Studio 代码\自定义函数就字符串长度\Debug\自定义函数就字符串长度.exe
